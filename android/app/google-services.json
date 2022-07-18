@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "859877992939",
+    "project_id": "film-project-78a6b",
+    "storage_bucket": "film-project-78a6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859877992939:android:000f45ae3c153825b051ae",
+        "android_client_info": {
+          "package_name": "com.example.cinemovie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859877992939-gojo96tkjple8ddu2hoh7u7q5kdk7j7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj07wYpn1ViLbHZhJoaY5zARrmS8iHN_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859877992939-gojo96tkjple8ddu2hoh7u7q5kdk7j7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "859877992939-feh0amoao5ogl52inmd5mls4go4ou4h1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cinemovieApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
